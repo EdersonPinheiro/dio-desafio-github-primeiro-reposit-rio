@@ -1,5 +1,11 @@
-git clone (url) - clona o repositorio
+git init | inicializa um repositório
 
-git add -a - adiciona ao stage (modo de esperar)
+git clone (url) | clona o repositorio
 
-git commit - envia o commit para o servidor
+git add -a | adiciona ao stage (modo de esperar)
+
+git commit -m "msg"- anotações
+
+git status | mostra o status dos arquivos
+
+git push origin main | envia todos os commits localmente para a núvem

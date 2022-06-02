@@ -2,7 +2,7 @@ git init | inicializa um repositório
 
 git clone (url) | clona o repositorio
 
-git add -a | adiciona ao stage (modo de esperar)
+git add -a | adiciona ao stage (modo de espera)
 
 git commit -m "msg"- anotações
 

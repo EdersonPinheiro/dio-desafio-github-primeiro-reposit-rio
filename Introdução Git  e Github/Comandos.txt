@@ -1,0 +1,5 @@
+git clone (url) - clona o repositorio
+
+git add -a - adiciona ao stage (modo de esperar)
+
+git commit - envia o commit para o servidor

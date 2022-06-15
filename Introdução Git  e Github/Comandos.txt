@@ -4,7 +4,7 @@ git clone (url) | clona o repositorio
 
 git add -a | adiciona ao stage (modo de espera)
 
-git commit -m "msg"- anotações
+git commit -m "msg"- nome do commit
 
 git status | mostra o status dos arquivos
 
